@@ -1,1 +1,1 @@
-# newtoncraddle
+# newton-cradle-project
